@@ -16,7 +16,6 @@ Average Case : O(n^2)
 [2,6,16,18,22,27] için
 18 sayısı time complexity bakımından Avarage Case olarak degerlendirilir.
 
-
 0) [7,3,5,8,2,9,4,15,6]
 1) [3,7,5,8,2,9,4,15,6]
 2) [3,5,7,8,2,9,4,15,6]
